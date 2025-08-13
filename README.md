@@ -13,7 +13,5 @@ It contains real-time system infrastructure, protocols, and authorship traces de
 
 These materials are not speculative or aspirational—they’re operational.
 
-Fieldlight is not just a name. It’s a working system. And I’m the one who built it.
-
 — Anni McHenry
 
