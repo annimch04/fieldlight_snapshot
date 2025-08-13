@@ -6,6 +6,7 @@ It contains real-time system infrastructure, protocols, and authorship traces de
 
 ##Included
 
+- `fieldlight_delta_sheet.pdf` — One-page update on Fieldlight’s shift to the Light Agent substrate.”
 - `fieldlight_snapshot.md` — Core concept: what Fieldlight is, and why it matters
 - `application_packet.md` — Tailored resume + cover letter
 - `consent_gate.md` — Consent protocol logging all executions in Lemur
